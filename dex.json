@@ -22471,7 +22471,8 @@
     },
     {
         "sprite": "125.9.png",
-        "entry": "The air pressure inside an POKENAME's shell causes moisture to collect and form into dense storm clouds charged with electricity. The metal cannons along the edge act as lightning rods, directing and amplifying POKENAME's power when it attacks."
+        "entry": "The air pressure inside an POKENAME's shell causes moisture to collect and form into dense storm clouds charged with electricity. The metal cannons along the edge act as lightning rods, directing and amplifying POKENAME's power when it attacks.",
+        "author": "wildheartrazorfangs"
     },
     {
         "sprite": "126.10.png",
@@ -35829,6 +35830,11 @@
         "author": "imagine1."
     },
     {
+        "sprite": "141.256.png",
+        "entry": "Souls of extinct Pokémon are said to surround POKENAME. It is unclear if the legends refers to these ancient Pokémon causing these extinctions or if they rallied the souls after the fact.",
+        "author": "static.mcawesome"
+    },
+    {
         "sprite": "141.270.png",
         "entry": "With incredible aerial speed and razor-sharp blades, POKENAME was an apex flying predator of the ancient world. Fossil records of its habitats indicate it preyed on even the most gargantuan of prehistoric Pokémon.",
         "author": "sk372"
@@ -36389,7 +36395,7 @@
         "author": ".izik"
     },
     {
-        "sprite": "142.501.png",
+        "sprite": "142.501b.png",
         "entry": "While Luvdisc tend to congregate around people in love, POKENAME prefers to swim near single humans. It's believed to be a sign of prosperity in life without the need for romance.",
         "author": "hophoppip"
     },
@@ -56057,6 +56063,11 @@
         "sprite": "173.554.png",
         "entry": "POKENAME absorbs humidity in the surrounding air, adding the moisture to its shimmering cloud. It allows glittering drops to fall from the cloud when too much is absorbed. Groups of POKENAME gather to dance when shooting stars fill the sky.",
         "author": "chibitales"
+    },
+    {
+        "sprite": "173.56.png",
+        "entry": "Playfully combative, POKENAME throws weak punches at anyone who draws near, not intending to cause any lasting harm. During the full moon, it loses a bit of self-control and may accidentally hurt those it wants to play with.",
+        "author": "sk372"
     },
     {
         "sprite": "173.564.png",
@@ -83779,6 +83790,11 @@
         "author": ".izik"
     },
     {
+        "sprite": "207.294.png",
+        "entry": "Its wings are so small that it can't glide farther than a meter. However, it is an excellent climber and will scale trees to gnaw at the branches.",
+        "author": "cait_sith"
+    },
+    {
         "sprite": "207.300.png",
         "entry": "Spiteful and mischievous, POKENAME are known to break into the homes of Trainers that slight them and rearrange objects and furniture with their powerful pincer.",
         "author": "agentyoshi"
@@ -85892,6 +85908,11 @@
         "sprite": "210.370.png",
         "entry": "It bites defensively when provoked, releasing a sticky slime that makes attackers slip away. Its strong jaws can crush small shells found on the beach.",
         "author": ".izik"
+    },
+    {
+        "sprite": "210.372.png",
+        "entry": "It is incredibly territorial and can spot a Joltik from half a mile away. These traits make it a popular choice for a guard Pokémon.",
+        "author": "cait_sith"
     },
     {
         "sprite": "210.377.png",
@@ -90524,9 +90545,19 @@
         "author": "ilazerheart"
     },
     {
+        "sprite": "219.168.png",
+        "entry": "POKENAME leave scalding-hot webs at inconspicuous places to trap and bake prey. The silk from these webs can be spun into clothing that never lose warmth, which is very useful for mountaineers and artic explorers.",
+        "author": "npshi"
+    },
+    {
         "sprite": "219.17.png",
         "entry": "POKENAME is known to make nests close to lava pools and often dives into them in search of food. As a result, it is always warm. Its body temperature can melt rocks with one touch, so Trainers are advised to be careful while petting it.",
         "author": "alexandre_vulgo_xande"
+    },
+    {
+        "sprite": "219.171.png",
+        "entry": "POKENAME are found deep in the ocean, inside underwater volcanoes. They hunt by luring prey in and shocking them with their lure.",
+        "author": "bigoljax"
     },
     {
         "sprite": "219.172.png",
@@ -90569,6 +90600,16 @@
         "author": "infinex21"
     },
     {
+        "sprite": "219.182.png",
+        "entry": "POKENAME can be found in regions with volcanoes, dancing around the crater rims. Studies have found that their leaves have the same consistency as volcanic ash.",
+        "author": "ozzie.the.writer"
+    },
+    {
+        "sprite": "219.184.png",
+        "entry": "POKENAME use their large ears to listen to noises deep underground, guiding them towards water. POKENAME sometimes mistakenly follow the sound of rock melting into magma, causing many POKENAME to gather at a volcano just before it erupts.",
+        "author": "npshi"
+    },
+    {
         "sprite": "219.188.png",
         "entry": "As it gets hotter, POKENAME floats higher towards the sun. Coincidentally as this happens the bubbling lava plume from its stony petals expands as well, creating a cycle causing it to get even warmer and float even higher.",
         "author": "foolish_weasel"
@@ -90602,6 +90643,11 @@
         "sprite": "219.19a.png",
         "entry": "These small Pokémon are common near volcanic areas, ash-clad plains, and even some mines. They expel flames from their rear to propel themselves at greater speeds as they search for coal and other flammable materials to feed on.",
         "author": "infinex21"
+    },
+    {
+        "sprite": "219.20.png",
+        "entry": "The upper pair of POKENAME's stone teeth grows much quicker than its bottom pair since they are closer to its dripping magma. Due to this, it awkwardly chews on objects using only its top pair to keep them in size with its bottom pair.",
+        "author": "soup1900"
     },
     {
         "sprite": "219.204.png",
@@ -90779,6 +90825,11 @@
         "author": "mistymagius"
     },
     {
+        "sprite": "219.254.png",
+        "entry": "POKENAME create fists made of hardened magma by cooling their molten appendages in water. POKENAME can use these fists to handle food, fight off threats, and even warm surfaces they touch.",
+        "author": "npshi"
+    },
+    {
         "sprite": "219.255.png",
         "entry": "POKENAME are rare, typically found in groups of up to three called covens, and inhabit volcanic calderas. Folklore says that it is best to leave them alone as angering them may lead to a fiery curse being laid upon you.",
         "author": "pjporwoll"
@@ -90792,6 +90843,11 @@
         "sprite": "219.256.png",
         "entry": "POKENAME and its grunts hunt and live around hot springs and volcanic calderas. The wind beneath their magma wings reaches 1,800 degrees Fahrenheit. Landing in trees can result in forest fires.",
         "author": "ilazerheart"
+    },
+    {
+        "sprite": "219.259.png",
+        "entry": "POKENAME carries an egg-shaped rock in its belly pouch, warming the stone with its high body heat. Place a POKENAME stone into a pool to create an instant restorative hot spring.",
+        "author": "oddwalls"
     },
     {
         "sprite": "219.261.png",
@@ -90812,6 +90868,11 @@
         "sprite": "219.266.png",
         "entry": "POKENAME are giant blobs of moving magma lined with volcanic rock. They live in lava pits and use their stretchable arms to ensnare any prey that wanders too close.",
         "author": "infinex21"
+    },
+    {
+        "sprite": "219.267.png",
+        "entry": "Because of their high temper, POKENAME can cause mass destruction when aggravated. They mix their magma with their electricity, creating magma balls that explode when they make contact with any surface.",
+        "author": "bigoljax"
     },
     {
         "sprite": "219.271.png",
@@ -91029,6 +91090,11 @@
         "author": "mepp."
     },
     {
+        "sprite": "219.338.png",
+        "entry": "POKENAME encases its large fur in stone to prevent it from catching on fire or being melted away by its fire and magma. However, it must break some of this stone off when using illusions to change its appearance since they're too difficult to hide.",
+        "author": "soup1900"
+    },
+    {
         "sprite": "219.339.png",
         "entry": "POKENAME's feelers are coated in a thin layer of constantly shifting lava. It uses this to keep its body perpetually hot, somehow altering the flow at a moment's notice.",
         "author": ".izik"
@@ -91097,6 +91163,16 @@
         "sprite": "219.354.png",
         "entry": "When POKENAME senses danger, it hardens its magma body into a shell. If pressured, it bursts from its shell and delivers a fiery kick hot enough to boil iron. ",
         "author": "ilazerheart"
+    },
+    {
+        "sprite": "219.357.png",
+        "entry": "POKENAME are revered as defenders by certain northern communities, as they burst from lava pools when someone intrudes into their volcanic territory. However, researchers now know that POKENAME are playful and pop out to scare people as a joke.",
+        "author": "vic1312"
+    },
+    {
+        "sprite": "219.363.png",
+        "entry": "POKENAME are sometimes used by nurses to ease aching joints. POKENAME will wrap heated webbing around afflicted areas, spreading a slow, gentle heat throughout.",
+        "author": "ozzie.the.writer"
     },
     {
         "sprite": "219.366.png",
@@ -91187,6 +91263,11 @@
         "sprite": "219.426.png",
         "entry": "When POKENAME roars, its jagged stone fangs glow red-hot. One bite can leave molten cracks in solid rock.",
         "author": ".izik"
+    },
+    {
+        "sprite": "219.428.png",
+        "entry": "POKENAME struggle to find a home for themselves, as they're too hot for the arctic but also too cold for volcanoes. Because of this, many trainers like to take them in, giving them a warm home that many longed for so long.",
+        "author": "bigoljax"
     },
     {
         "sprite": "219.428a.png",
@@ -91299,6 +91380,11 @@
         "author": "frokachu"
     },
     {
+        "sprite": "219.469.png",
+        "entry": "While POKENAME uses its big stone teeth to intimidate foes, it uses them sparingly since they break and crumble very easily. It uses psychic powers to shape its spouting flames to look like snazzy, eye-catching fins.",
+        "author": "soup1900"
+    },
+    {
         "sprite": "219.47.png",
         "entry": "Their large, cone-shaped shells serve as shields for their softer bodies and as a means to store and vent excess heat. Their pincers are the hottest parts of their bodies, capable of softening most materials with their heat as they slice through.",
         "author": "infinex21"
@@ -91324,6 +91410,11 @@
         "author": "fireblade141"
     },
     {
+        "sprite": "219.481.png",
+        "entry": "POKENAME like to compete with each other by seeing how far their flames can shoot out. Some even try to challenge other Pokémon like Magmortar, though they usually lose.",
+        "author": "bigoljax"
+    },
+    {
         "sprite": "219.482.png",
         "entry": "While POKENAME sleeps, the lava in its ears cools and hardens. This temporarily limits its hearing until it warms up again.",
         "author": ".izik"
@@ -91344,9 +91435,29 @@
         "author": "infinex21"
     },
     {
+        "sprite": "219.50.png",
+        "entry": "As POKENAME tunnels underground, it leaves behind a trail of lava, scorching the plant roots above it. POKENAME can be tracked by following the paths of burnt grass.",
+        "author": "oddwalls"
+    },
+    {
         "sprite": "219.500a.png",
         "entry": "The crystals along a POKENAME's body are crystallized magma. These crystals do not melt and never seem to cool off, leading many to use them to help them stay warm in colder environments.",
         "author": "infinex21"
+    },
+    {
+        "sprite": "219.51.png",
+        "entry": "POKENAME bore up to 60 miles deep into the planet to bathe in fresh magma. It was once thought that POKENAME could create new volcanoes, but the tunnels they dig are too narrow for magma to reach the surface.",
+        "author": "oddwalls"
+    },
+    {
+        "sprite": "219.538.png",
+        "entry": "The volcanoes on POKENAME's back build up larger each time it erupts. Some can even grow to nine feet in length if POKENAME erupts as soon as it's done building up magma.",
+        "author": "bigoljax"
+    },
+    {
+        "sprite": "219.549.png",
+        "entry": "POKENAME is a ferocious ambush predator, in spite of its slow speed. It sneaks up on its prey, trapping them in its magma-filled claws.",
+        "author": "secondegg"
     },
     {
         "sprite": "219.55.png",
@@ -91379,9 +91490,19 @@
         "author": "ilazerheart"
     },
     {
+        "sprite": "219.562.png",
+        "entry": "When sealed and submerged, POKENAME appear to be a mundane rock. This confounded geologists who observed seemingly random hot springs appearing overnight. Traditional communities at higher elevations have used POKENAME for heating for centuries.",
+        "author": "vic1312"
+    },
+    {
         "sprite": "219.565.png",
         "entry": "With a body of magma and volcanic rock, POKENAME effortlessly swims through lava in volcanic isles. It dislikes the presence of others, spitting out globs of magma mixed with bits of stone at anyone who catches its ire.",
         "author": "sk372"
+    },
+    {
+        "sprite": "219.566.png",
+        "entry": "While most of POKENAME is made of hot magma, its nose consists of cool, hardened stone, which allows it to show its love and affection with others. However, avoid being near it if it catches a cold, since it will sneeze lava out of its nostril.",
+        "author": "soup1900"
     },
     {
         "sprite": "219.572.png",
@@ -91409,9 +91530,19 @@
         "author": "wiz0z"
     },
     {
+        "sprite": "219.68.png",
+        "entry": "With their incredible strength and high heat, POKENAME are able to punch holes through other Pokémon. However, they rarely do this, as they don't wish for unnecessary violence.",
+        "author": "bigoljax"
+    },
+    {
         "sprite": "219.68a.png",
         "entry": "POKENAME use their increased body temperature to power steam locomotives. For long journeys, POKENAME eat four handfuls of coal at a time to burn long enough.",
         "author": "ozzie.the.writer"
+    },
+    {
+        "sprite": "219.69.png",
+        "entry": "POKENAME move their thin, ashy bodies in short, jerky movements. When threatened, they blast balls of magma at their attackers from their mouths. The ash from their bodies contains extremely high concentrations of heavy metals.",
+        "author": "vic1312"
     },
     {
         "sprite": "219.70.png",
@@ -91462,6 +91593,16 @@
         "sprite": "219.85.png",
         "entry": "POKENAME squawks loudly as it dashes across volcanic terrain. Each footstep leaves behind a faint trail of scorched dirt.",
         "author": ".izik"
+    },
+    {
+        "sprite": "219.86.png",
+        "entry": "POKENAME digs holes that act like air vents inside of volcanoes so it can breathe clean air after swimming inside lava for hours. It despises water since it would harden its magma body to rock and restrict its movements for play.",
+        "author": "soup1900"
+    },
+    {
+        "sprite": "219.87.png",
+        "entry": "Residing in the waters around polar volcanoes, POKENAME raise their young on large pumice islands. Their shells are also composed of pumice, which helps POKENAME control their buoyancy while diving.",
+        "author": "vic1312"
     },
     {
         "sprite": "219.89.png",
@@ -100082,6 +100223,11 @@
         "sprite": "232.287.png",
         "entry": "The position of POKENAME's trunk conveys its emotions, the trunk rising with its level of anger. In combat, it stuns opponents with its mental powers before grappling and crushing them with its trunk.",
         "author": "pjporwoll"
+    },
+    {
+        "sprite": "232.295.png",
+        "entry": "Its tusks are corporeal, so it uses them to pierce foes. Some rumors claim that the souls of poachers are imprisoned in its keystone.",
+        "author": "cait_sith"
     },
     {
         "sprite": "232.300.png",
@@ -124069,6 +124215,21 @@
         "author": "operativevalkyrie"
     },
     {
+        "sprite": "271.506.png",
+        "entry": "POKENAME spends most of its time relaxing in the path of the sun. The energy it collects by photosynthesising in this manner is stored for when it cocoons itself.",
+        "author": "dragon_hunter_70"
+    },
+    {
+        "sprite": "271.507.png",
+        "entry": "The body of POKENAME is as tough as iron. The longer that POKENAME sits in the sun, the stronger its defences are.",
+        "author": "dragon_hunter_70"
+    },
+    {
+        "sprite": "271.508.png",
+        "entry": "POKENAME despises disputes and flits from flower to flower, attempting to calm down any fighting. Its leaf-like wings produce fresh air from their photosynthesising, helping in this endeavour.",
+        "author": "dragon_hunter_70"
+    },
+    {
         "sprite": "271.515.png",
         "entry": "POKENAME dives from the tallest trees in the forest to bravely attack anyone who invades its territory. If it gifts someone one of its magnificent leaf-shaped feathers, it means they've earned its respect.",
         "author": "fiordaliso"
@@ -128707,6 +128868,11 @@
         "sprite": "278.124.png",
         "entry": "POKENAME's skilled dance disperses its seeds into its dancefloor. At the finale of its dance, gorgeous flowers emerge from these seeds.",
         "author": "bandedbodypress"
+    },
+    {
+        "sprite": "278.127.png",
+        "entry": "Its pincers' bristles give it a secure grip on whatever it holds. When two POKENAME fight, their bristles may interlock, causing the POKENAME to be stuck together.",
+        "author": "cait_sith"
     },
     {
         "sprite": "278.128.png",
@@ -161154,6 +161320,11 @@
         "author": "bandedbodypress"
     },
     {
+        "sprite": "326.81.png",
+        "entry": "POKENAME contains a surprising amount of magnetic power within its compact body. The stone cap on its head levitates when it exerts a large amount of its powers.",
+        "author": "sk372"
+    },
+    {
         "sprite": "326.97a.png",
         "entry": "A long time ago, four POKENAME lived with humanity and protected their cities. Nowadays, once a year during a festival, an ancient song is used as tribute to them.",
         "author": "doodledoo"
@@ -164406,6 +164577,11 @@
     {
         "sprite": "330.375.png",
         "entry": "It will fight at the slightest provocation, but it always charges blindly. Therefore, it needs a commander to fight effectively.",
+        "author": "cait_sith"
+    },
+    {
+        "sprite": "330.376.png",
+        "entry": "POKENAME's two heads spend as much time fighting each other as they do fighting their opponents. As a last resort against an enemy, one head will latch onto the foe with its jaws while the other head attacks relentlessly.",
         "author": "cait_sith"
     },
     {
@@ -176372,6 +176548,11 @@
         "sprite": "345.460.png",
         "entry": "A pale imitation of the Distortion Realm. Those who wander near at night will disappear, never to be seen again...",
         "author": "rkmaster25367"
+    },
+    {
+        "sprite": "345.460a.png",
+        "entry": "They say that whoever stares into POKENAME's maw long enough will become hypnotized by the rotating rows of glowing teeth within, allowing POKENAME to easily swoop in and devour its victim.",
+        "author": "fireblade141"
     },
     {
         "sprite": "345.465.png",
@@ -189559,6 +189740,11 @@
         "author": "soup1900"
     },
     {
+        "sprite": "367.275.png",
+        "entry": "POKENAME act like dangerous and virulent computer viruses. Users will find themselves drawn to any PC infected with POKENAME, where they will be trapped as their lifeforce is slowly siphoned away.",
+        "author": "solori_roznie"
+    },
+    {
         "sprite": "367.276.png",
         "entry": "It uses its hooked claws and tail to climb buildings and sneak into mansions. Rumours say it is an evil spirit possessing a Treecko whose soul it burned away.",
         "author": "h0bojoe"
@@ -201084,6 +201270,11 @@
         "author": "sk372"
     },
     {
+        "sprite": "386.3.png",
+        "entry": "POKENAME is known to hang from trees in the jungle, dropping on unsuspecting prey. The large sprout on POKENAME's back produces acidic liquid that wilts any plant life it touches.",
+        "author": "adsfw11"
+    },
+    {
         "sprite": "386.30.png",
         "entry": "POKENAME's clear poison grants bursts of hyperactivity followed by deep fatigue. It secretes more of this toxin when provoked in battle.",
         "author": ".izik"
@@ -208157,6 +208348,11 @@
         "sprite": "398.425.png",
         "entry": "Though its actual capabilities are only moderate, POKENAME vainly considers itself the pinnacle of machinery. Should someone imply otherwise, it angrily spits high-velocity gears at the detractor in petty defiance.",
         "author": "sk372"
+    },
+    {
+        "sprite": "398.434.png",
+        "entry": "It has an urge to collect any scrap metal or machinery it finds. Sometimes it collects so much that it is barely able to move.",
+        "author": "cait_sith"
     },
     {
         "sprite": "398.437.png",
@@ -227924,6 +228120,11 @@
         "author": "kittenthepiratekat"
     },
     {
+        "sprite": "426.149.png",
+        "entry": "What POKENAME lacks in agility, it makes up for in strength, as its powerful jaws can easily crush most rocks. However, it has a gentle demeanor and will only attack if threatened.",
+        "author": "fireblade141"
+    },
+    {
         "sprite": "426.16.png",
         "entry": "POKENAME prefers to travel on the ground, as it cannot fly well due to its disproportionately large feet. Its small beak is filled with sharp teeth that easily shred through the exoskeleton of Bug-type Pokémon.",
         "author": "kam_doodle_snek"
@@ -240494,6 +240695,11 @@
         "author": "jordanx27"
     },
     {
+        "sprite": "441.336.png",
+        "entry": "POKENAME are nocturnal, sleeping by hanging from cave ceilings during the day and soaring through the skies at night, when their dark coloration makes them extremely difficult to see. They can break the sound barrier by diving from high altitudes. ",
+        "author": "fireblade141"
+    },
+    {
         "sprite": "441.337.png",
         "entry": "A POKENAME's trainer should always carry proper hearing protection. Its metallic screeching can reach volumes of up to 140 dB.",
         "author": "cait_sith"
@@ -252584,6 +252790,11 @@
         "author": ".izik"
     },
     {
+        "sprite": "458.236.png",
+        "entry": "POKENAME spend hours training their strength by throwing around hay bales. When it's not training, POKENAME can often be seen dancing in hoedowns.",
+        "author": "dragon_hunter_70"
+    },
+    {
         "sprite": "458.237.png",
         "entry": "POKENAME spins on its head to disperse excess heat from its body when temperatures rise too high in the desert sun. Oddly, it does not drill deeper into the sand, no matter how fast it spins, unless it chooses to do so.",
         "author": ".izik"
@@ -252819,6 +253030,11 @@
         "author": "staghorn"
     },
     {
+        "sprite": "458.467.png",
+        "entry": "POKENAME's lithe body is perfect for the many dance styles it has mastered. It uses these skills to lure in the avian Pokémon it preys upon.",
+        "author": "dragon_hunter_70"
+    },
+    {
         "sprite": "458.479.png",
         "entry": "POKENAME primarily eats seeds and roots for its diet. In the hot desert sun, tiny spines grow from its head, adding to its formidable defense and helping it adapt to its harsh environment.",
         "author": ".izik"
@@ -252862,6 +253078,11 @@
         "sprite": "458.6.png",
         "entry": "POKENAME will draw heat energy from the harsh desert sun to fuel its fiery attacks. The sand within its body keeps its cactus body from burning.",
         "author": "mistymagius"
+    },
+    {
+        "sprite": "458.66.png",
+        "entry": "As they get older, POKENAME get lazy and will often try to skive off from the farming work they are often used for. This often takes the form of extra weight training instead of carrying out tasks.",
+        "author": "dragon_hunter_70"
     },
     {
         "sprite": "458.68.png",
@@ -269954,6 +270175,11 @@
         "author": "quackquackattack"
     },
     {
+        "sprite": "490.302.png",
+        "entry": "POKENAME use their hairlike tentacles to dig up their prey in the sand. Once found, POKENAME ensnare their prey before excreting a digestive enzyme. On nights of a new moon, it is said that POKENAME's victims can be heard on shorelines.",
+        "author": "starryeyedmemoriam"
+    },
+    {
         "sprite": "490.31.png",
         "entry": "The thick scales on POKENAME's body are similar in makeup to pumpkin shells. When stressed, the shells harden to become sturdier than marble, providing enhanced defense against physical attacks.",
         "author": ".izik"
@@ -274272,6 +274498,11 @@
         "sprite": "498.55.png",
         "entry": "POKENAME are superb swimmers that zip through the water to avoid predators. Once they find a suitable spot to rest, they go dormant and tuck their limbs close to their bodies.",
         "author": "quackquackattack"
+    },
+    {
+        "sprite": "498.558.png",
+        "entry": "In a flock of POKENAME, one is always designated as the lookout. When this Pokémon notices incoming predators, it will loudly chime its glowing bell to alert the others to the incoming danger.",
+        "author": "dragon_hunter_70"
     },
     {
         "sprite": "498.55a.png",
@@ -280809,6 +281040,11 @@
         "author": "santon5512"
     },
     {
+        "sprite": "506.130.png",
+        "entry": "With their newfound power, POKENAME burrow into the ground to avoid Bird-Pokémon. If faced with an opponent, they will coil around them; their spikes releasing venom to weaken their foe.",
+        "author": "starryeyedmemoriam"
+    },
+    {
         "sprite": "506.133.png",
         "entry": "POKENAME's silk constantly changes as it grows, from being fiery hot and hard to soft with a leaf-like odor at a whim. It is often impossible to predict what it is going to evolve into due to how vast and varying its possible evolutions can be.",
         "author": "soup1900"
@@ -285827,6 +286063,11 @@
         "sprite": "521.42a.png",
         "entry": "Much like the name suggests, POKENAME is extremely loud. The ultrasonic waves it produces from its wings are so powerful it can wake up a group of sleeping Komala.",
         "author": "oejoeboy33"
+    },
+    {
+        "sprite": "521.433.png",
+        "entry": "The loud music POKENAME plays is tuneful only to the dead. After summoning spirits with its personal melody, it will perform a beautiful dance, ending with its audience being cursed.",
+        "author": "dragon_hunter_70"
     },
     {
         "sprite": "521.435.png",
@@ -298004,6 +298245,11 @@
         "author": "santon5512"
     },
     {
+        "sprite": "562.413.png",
+        "entry": "POKENAME bury themselves in the dirt at the start of Autumn in order to keep warm while hibernating. Farmers often have trouble removing them from their fields due to their barbed shell shards.",
+        "author": "dragon_hunter_70"
+    },
+    {
         "sprite": "562.43.png",
         "entry": "Their main bodies are similar to prized pearls, so they often hide along the seabed under their hard shells. Their bodies are actually incredibly soft and, as some people learned in the past, they contain a poison that cannot be cooked out.",
         "author": "infinex21"
@@ -298157,6 +298403,11 @@
         "sprite": "564.329.png",
         "entry": "It takes control of any human who wields it like a sword. Despite its cutesy appearance, it's extremely bloodthirsty.",
         "author": "hophoppip"
+    },
+    {
+        "sprite": "564.364.png",
+        "entry": "The tails of POKENAME act as roots, absorbing nutrients from the ground while it hibernates. POKENAME will gorge itself if buried surrounded by plant life, leaving the surrounding land decimated come spring.",
+        "author": "dragon_hunter_70"
     },
     {
         "sprite": "564.466.png",
@@ -299189,6 +299440,11 @@
         "author": "clickonflareblitz"
     },
     {
+        "sprite": "57.12.png",
+        "entry": "POKENAME wing scales are mildly toxic when inhaled, causing increased feelings of aggression in whoever breathes them in. POKENAME are not immune to their own scales and frenetically flutter around in the hopes of finding a fight.",
+        "author": "katieplaysgames"
+    },
+    {
         "sprite": "57.122.png",
         "entry": "It gets especially excited when it sees a keyboard and angrily smashes it until it breaks. Strangely, POKENAME sometimes ends up writing coherent sentences, though they always have horrid spelling mistakes.",
         "author": "epping_forest"
@@ -299207,6 +299463,11 @@
         "sprite": "57.128.png",
         "entry": "POKENAME have a high temper, usually going on violent rampages through the countryside. The only thing stopping these rampages are the massive headaches POKENAME gets after ramming their heads into walls.",
         "author": "bigoljax"
+    },
+    {
+        "sprite": "57.12a.png",
+        "entry": "POKENAME wing scales are mildly toxic when inhaled, causing increased feelings of aggression in whoever breathes them in. POKENAME are not immune to their own scales, whirling their ball and chain to try and knock out anyone they see.",
+        "author": "katieplaysgames"
     },
     {
         "sprite": "57.131.png",
@@ -299404,6 +299665,11 @@
         "author": ".izik"
     },
     {
+        "sprite": "57.28.png",
+        "entry": "POKENAME spend their time digging tunnels, using their sharp claws and powerful muscles to carve through the soil. They fly into a rage if disturbed, digging out the ground under whoever interrupted them and dragging them into their tunnels.",
+        "author": "katieplaysgames"
+    },
+    {
         "sprite": "57.282.png",
         "entry": "POKENAME regularly fights to defend what it considers the best spot to dive into the water. It erupts in anger if it gets splashed by another Pokémon diving next to its spot.",
         "author": "mjxpimouss"
@@ -299417,6 +299683,21 @@
         "sprite": "57.287.png",
         "entry": "POKENAME tries to control its ceaseless rage, but needs to vent out the anger by punching something or it will become ill. The only thing it will absolutely refuse to pummel is its Trainer.",
         "author": "sk372"
+    },
+    {
+        "sprite": "57.289.png",
+        "entry": "POKENAME engender irrational feelings of anger and aggression in those who see them. Pokémon that try to strike them often find their attacks have no effect, invariably leading to the anger being projected by POKENAME to intensify.",
+        "author": "katieplaysgames"
+    },
+    {
+        "sprite": "57.28a.png",
+        "entry": "POKENAME spend their time digging tunnels, using their sharp claws and powerful muscles to carve through the soil. They grow angry when they encounter an unexpected object in their path, cleaving apart rocks and piping alike to continue their tunnel.",
+        "author": "katieplaysgames"
+    },
+    {
+        "sprite": "57.28b.png",
+        "entry": "POKENAME alternate between using sharp swipes and blunt punches during battle. They lack the tactical knowledge to effectively choose between the two fighting styles, often just alternating between the two in a frenzied assault.",
+        "author": "katieplaysgames"
     },
     {
         "sprite": "57.29.png",
@@ -299457,6 +299738,11 @@
         "sprite": "57.309.png",
         "entry": "POKENAME always wakes up on the wrong side of the bed. If someone rudely awakens it, it'll smash them into paste before going back to sleep.",
         "author": "dragonzzilla"
+    },
+    {
+        "sprite": "57.31.png",
+        "entry": "POKENAME are fiercely protective of their young, flying into an uncontrolled rage whenever their family is threatened. Their rampages can last for days, often taking them far away from their family in the process.",
+        "author": "katieplaysgames"
     },
     {
         "sprite": "57.315.png",
@@ -299562,6 +299848,21 @@
         "sprite": "57.354.png",
         "entry": "To enhance its rage for combat, POKENAME will squeeze and yank its own ears. Once the battle is over, it finds a quiet spot to groom its ears and eat its favorite berries.",
         "author": "pjporwoll"
+    },
+    {
+        "sprite": "57.355.png",
+        "entry": "POKENAME are short-tempered Pokémon, taking offense at the most minor of inconveniences. They use rapid jabs of their claw-like hands to attack whatever's annoyed them, swiping with their tail if they can't finish off their foe just with punches.",
+        "author": "katieplaysgames"
+    },
+    {
+        "sprite": "57.355a.png",
+        "entry": "POKENAME are short-tempered Pokémon, taking offense at the most minor of inconveniences. They pick fights with anything that angers them, darting forward with a rapid Mach Punch before retreating to a safe distance again.",
+        "author": "katieplaysgames"
+    },
+    {
+        "sprite": "57.356.png",
+        "entry": "POKENAME wings beat at the same frequency as their heartbeat, whirring faster and faster as they grow angrier. They are able to land flurries of punches on their opponents, racing past their foes' defences but leaving them open to counter-attacks.",
+        "author": "katieplaysgames"
     },
     {
         "sprite": "57.362.png",
@@ -300132,6 +300433,11 @@
         "sprite": "572.426.png",
         "entry": "POKENAME spit poison onto their prey, waiting until the remains are fully melted to consume them. Other Pokémon avoid them for fear of the cruelty of their hunting method.",
         "author": "bigoljax"
+    },
+    {
+        "sprite": "572.426a.png",
+        "entry": "POKENAME typically attack anything that enters their murky territory, save for Dhelmise. POKENAME are known to stalk their prey for hours on end under the visage of seaweed, before delivering a powerful, venomous bite.",
+        "author": "starryeyedmemoriam"
     },
     {
         "sprite": "572.429.png",
@@ -303422,6 +303728,11 @@
         "sprite": "60.496.png",
         "entry": "POKENAME can dive underwater for short periods of time because of the bubble atop their head. When they come back to the surface, the lily pad atop their head provides camouflage while the bubble fills up with air.",
         "author": "quackquackattack"
+    },
+    {
+        "sprite": "60.497.png",
+        "entry": "A protective bubble shields the sensitive plant connected to POKENAME's brain. The plant can be seen wiggling and vibrating to music alongside POKENAME's dance moves.",
+        "author": "sk372"
     },
     {
         "sprite": "60.50.png",
@@ -321182,6 +321493,11 @@
         "sprite": "87.467.png",
         "entry": "It stores thermal energy in its body when its hot, then uses that energy to keep itself warm in freezing-cold areas. However, if it stores too much energy, POKENAME will release it by performing difficult yet mesmerizing dances.",
         "author": "hello_i_exist"
+    },
+    {
+        "sprite": "87.469a.png",
+        "entry": "It uses its psychic powers to shatter sea ice. Any prey standing on the ice will fall into POKENAME's sharp-toothed jaws.",
+        "author": "cait_sith"
     },
     {
         "sprite": "87.477.png",
